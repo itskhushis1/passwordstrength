@@ -50,18 +50,17 @@ int main() {
 	char op;
 	do{
 		system("cls");
-		
-		cout<<"±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±"<<endl;
+		cout<<"Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±"<<endl;
 		cout<<endl;
-		cout<<"\t\t  ±±±±± "<<endl;
-		cout<<"\t\t  ±   ± "<<endl;
-		cout<<"\t\t±±±±±±±±±"<<endl;
-		cout<<"\t\t±±±± ±±±±"<<endl;
-		cout<<"\t\t±±±±±±±±±"<<endl; 
+		cout<<"\t\t  Â±Â±Â±Â±Â± "<<endl;
+		cout<<"\t\t  Â±   Â± "<<endl;
+		cout<<"\t\tÂ±Â±Â±Â±Â±Â±Â±Â±Â±"<<endl;
+		cout<<"\t\tÂ±Â±Â±Â± Â±Â±Â±Â±"<<endl;
+		cout<<"\t\tÂ±Â±Â±Â±Â±Â±Â±Â±Â±"<<endl; 
 		
 		cout<<endl;
 		cout<<"        PASSWORD  STRENGTH  CHECKER      "<<endl;
-		cout<<"±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±"<<endl<<endl; 
+		cout<<"Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±Â±"<<endl<<endl; 
 		  
 		cout<<endl<<"\tEnter Password: ";
 		cin>> password;
