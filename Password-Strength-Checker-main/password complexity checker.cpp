@@ -5,6 +5,7 @@
 #include <time.h>
 #include <string.h>
 
+
 using namespace std;
 
 HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE);
@@ -129,6 +130,7 @@ int main() {
 		}
 		else if (score>=50 && score<75)
 		{
+
 			cout<<"Password Status: Average"; 
 		}
 		else if (score>=75 && score<100)
